@@ -39,8 +39,8 @@ Este projeto investiga a aplicação de **Deep Learning** para detectar **Carcin
 - Convoluções duplas em blocos, inspiradas na VGG original
 
 📐 **Arquiteturas detalhadas**:
-![Arquitetura LeNet](img/lenet_arch.png)
-![Arquitetura VGG-Custom](img/vgg_arch.png)
+![Arquitetura LeNet](img/Arquitetura_LeNet.png)
+![Arquitetura VGG-Custom](img/Arquitetura_VGG.png)
 
 ---
 

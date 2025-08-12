@@ -38,13 +38,12 @@ Este projeto investiga a aplicação de **Deep Learning** para detectar **Carcin
 - ~2,63 milhões de parâmetros treináveis
 - Convoluções duplas em blocos, inspiradas na VGG original
 
-📐 **Arquiteturas detalhadas**:
+##📐 **Arquiteturas detalhadas**:
 
 ---
 ![Arquitetura LeNet](img/Arquitetura_LeNet.png)
 ---
 ![Arquitetura VGG-Custom](img/Arquitetura_VGG.png)
-
 ---
 
 ## 📊 Resultados
@@ -54,14 +53,14 @@ Este projeto investiga a aplicação de **Deep Learning** para detectar **Carcin
 | **LeNet**   | 85,27%   | 0,7347             | 0,7542            | 0,7443              |
 | **VGG-Custom** | **88,75%** | **0,8209**         | **0,7732**        | **0,7963**          |
 
-🔍 **Matrizes de confusão**:
+##🔍 **Matrizes de confusão**:
 ---
 ![Confusão LeNet](img/Matriz_LeNet.png)
 ---
 ![Confusão VGG](img/Matriz_VGG.png)
 ---
 
-📈 **Curvas de treino**:
+##📈 **Curvas de treino**:
 ![Treinamento LeNet vs VGG](img/Loss&Acuracia_VS.png)
 
 ---

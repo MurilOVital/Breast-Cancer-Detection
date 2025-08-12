@@ -42,10 +42,12 @@ Este projeto investiga a aplicação de **Deep Learning** para detectar **Carcin
 
 ## 📐 Arquiteturas detalhadas
 
-ARQUITETURA LENET
+Arquitetura LeNet
+
 ![Arquitetura LeNet](img/Arquitetura_LeNet.png)
 
-ARQUITETURA VGG-CUSTOM
+Arquitetura VGG-Custom
+
 ![Arquitetura VGG-Custom](img/Arquitetura_VGG.png)
 
 

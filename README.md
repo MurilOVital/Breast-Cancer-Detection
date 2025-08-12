@@ -15,6 +15,7 @@ Este projeto investiga a aplicação de **Deep Learning** para detectar **Carcin
   - Positivas (com IDC): 85.304  
 
 📊 **Distribuição das classes:**
+
 ![Distribuição das classes](img/Distribuição_Dados.png)
 
 ---

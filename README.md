@@ -61,7 +61,11 @@ Arquitetura VGG-Custom
 
 ## 🔍 Matrizes de confusão
 
+Matriz confusão modelo LeNet
+
 ![Confusão LeNet](img/Matriz_LeNet.png)
+
+Matriz confusão modelo VGG-Custom
 
 ![Confusão VGG](img/Matriz_VGG.png)
 
